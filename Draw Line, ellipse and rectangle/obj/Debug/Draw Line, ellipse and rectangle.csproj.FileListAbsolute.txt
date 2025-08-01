@@ -1,0 +1,20 @@
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\bin\Debug\Draw Line, ellipse and rectangle.exe.config
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\bin\Debug\Draw Line, ellipse and rectangle.exe
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\bin\Debug\Draw Line, ellipse and rectangle.pdb
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.csproj.AssemblyReference.cache
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\obj\Debug\Draw_Line__ellipse_and_rectangle.Form1.resources
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\obj\Debug\Draw_Line__ellipse_and_rectangle.Properties.Resources.resources
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.csproj.GenerateResource.cache
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.exe
+D:\C#\Windows Form\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.pdb
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\bin\Debug\Draw Line, ellipse and rectangle.exe.config
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\bin\Debug\Draw Line, ellipse and rectangle.exe
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\bin\Debug\Draw Line, ellipse and rectangle.pdb
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.csproj.AssemblyReference.cache
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\obj\Debug\Draw_Line__ellipse_and_rectangle.Form1.resources
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\obj\Debug\Draw_Line__ellipse_and_rectangle.Properties.Resources.resources
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.csproj.GenerateResource.cache
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.exe
+D:\C#\Windows Form\Drawing\Draw Line, ellipse and rectangle\obj\Debug\Draw Line, ellipse and rectangle.pdb
