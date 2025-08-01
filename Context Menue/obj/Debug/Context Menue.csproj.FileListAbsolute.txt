@@ -1,0 +1,11 @@
+D:\C#\Windows Form\Context Menue\bin\Debug\Context Menue.exe.config
+D:\C#\Windows Form\Context Menue\bin\Debug\Context Menue.exe
+D:\C#\Windows Form\Context Menue\bin\Debug\Context Menue.pdb
+D:\C#\Windows Form\Context Menue\obj\Debug\Context Menue.csproj.AssemblyReference.cache
+D:\C#\Windows Form\Context Menue\obj\Debug\Context_Menue.Form1.resources
+D:\C#\Windows Form\Context Menue\obj\Debug\Context_Menue.Properties.Resources.resources
+D:\C#\Windows Form\Context Menue\obj\Debug\Context Menue.csproj.GenerateResource.cache
+D:\C#\Windows Form\Context Menue\obj\Debug\Context Menue.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Context Menue\obj\Debug\Context Menue.exe
+D:\C#\Windows Form\Context Menue\obj\Debug\Context Menue.pdb
+D:\C#\Windows Form\Context Menue\obj\Debug\Context_Menue.Form2.resources
