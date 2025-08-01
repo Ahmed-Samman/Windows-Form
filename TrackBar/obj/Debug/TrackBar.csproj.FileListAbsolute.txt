@@ -1,0 +1,10 @@
+D:\C#\Windows Form\TrackBar\bin\Debug\TrackBar.exe.config
+D:\C#\Windows Form\TrackBar\bin\Debug\TrackBar.exe
+D:\C#\Windows Form\TrackBar\bin\Debug\TrackBar.pdb
+D:\C#\Windows Form\TrackBar\obj\Debug\TrackBar.csproj.AssemblyReference.cache
+D:\C#\Windows Form\TrackBar\obj\Debug\TrackBar.Form1.resources
+D:\C#\Windows Form\TrackBar\obj\Debug\TrackBar.Properties.Resources.resources
+D:\C#\Windows Form\TrackBar\obj\Debug\TrackBar.csproj.GenerateResource.cache
+D:\C#\Windows Form\TrackBar\obj\Debug\TrackBar.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\TrackBar\obj\Debug\TrackBar.exe
+D:\C#\Windows Form\TrackBar\obj\Debug\TrackBar.pdb
