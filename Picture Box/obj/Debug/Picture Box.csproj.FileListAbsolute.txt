@@ -1,0 +1,10 @@
+D:\C#\Windows Form\Picture Box\bin\Debug\Picture Box.exe.config
+D:\C#\Windows Form\Picture Box\bin\Debug\Picture Box.exe
+D:\C#\Windows Form\Picture Box\bin\Debug\Picture Box.pdb
+D:\C#\Windows Form\Picture Box\obj\Debug\Picture Box.csproj.AssemblyReference.cache
+D:\C#\Windows Form\Picture Box\obj\Debug\Picture_Box.Form1.resources
+D:\C#\Windows Form\Picture Box\obj\Debug\Picture_Box.Properties.Resources.resources
+D:\C#\Windows Form\Picture Box\obj\Debug\Picture Box.csproj.GenerateResource.cache
+D:\C#\Windows Form\Picture Box\obj\Debug\Picture Box.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Picture Box\obj\Debug\Picture Box.exe
+D:\C#\Windows Form\Picture Box\obj\Debug\Picture Box.pdb
