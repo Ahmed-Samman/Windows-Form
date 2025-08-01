@@ -1,0 +1,10 @@
+D:\C#\Windows Form\MDI Container\bin\Debug\MDI Container.exe.config
+D:\C#\Windows Form\MDI Container\bin\Debug\MDI Container.exe
+D:\C#\Windows Form\MDI Container\bin\Debug\MDI Container.pdb
+D:\C#\Windows Form\MDI Container\obj\Debug\MDI Container.csproj.AssemblyReference.cache
+D:\C#\Windows Form\MDI Container\obj\Debug\MDI_Container.Form1.resources
+D:\C#\Windows Form\MDI Container\obj\Debug\MDI_Container.Properties.Resources.resources
+D:\C#\Windows Form\MDI Container\obj\Debug\MDI Container.csproj.GenerateResource.cache
+D:\C#\Windows Form\MDI Container\obj\Debug\MDI Container.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\MDI Container\obj\Debug\MDI Container.exe
+D:\C#\Windows Form\MDI Container\obj\Debug\MDI Container.pdb
