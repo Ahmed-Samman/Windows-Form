@@ -1,0 +1,10 @@
+D:\C#\Windows Form\GroupBox VS Panel\bin\Debug\GroupBox VS Panel.exe.config
+D:\C#\Windows Form\GroupBox VS Panel\bin\Debug\GroupBox VS Panel.exe
+D:\C#\Windows Form\GroupBox VS Panel\bin\Debug\GroupBox VS Panel.pdb
+D:\C#\Windows Form\GroupBox VS Panel\obj\Debug\GroupBox VS Panel.csproj.AssemblyReference.cache
+D:\C#\Windows Form\GroupBox VS Panel\obj\Debug\GroupBox_VS_Panel.Form1.resources
+D:\C#\Windows Form\GroupBox VS Panel\obj\Debug\GroupBox_VS_Panel.Properties.Resources.resources
+D:\C#\Windows Form\GroupBox VS Panel\obj\Debug\GroupBox VS Panel.csproj.GenerateResource.cache
+D:\C#\Windows Form\GroupBox VS Panel\obj\Debug\GroupBox VS Panel.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\GroupBox VS Panel\obj\Debug\GroupBox VS Panel.exe
+D:\C#\Windows Form\GroupBox VS Panel\obj\Debug\GroupBox VS Panel.pdb
