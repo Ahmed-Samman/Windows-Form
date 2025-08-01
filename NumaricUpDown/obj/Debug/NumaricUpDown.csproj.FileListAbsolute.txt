@@ -1,0 +1,10 @@
+D:\C#\Windows Form\NumaricUpDown\bin\Debug\NumaricUpDown.exe.config
+D:\C#\Windows Form\NumaricUpDown\bin\Debug\NumaricUpDown.exe
+D:\C#\Windows Form\NumaricUpDown\bin\Debug\NumaricUpDown.pdb
+D:\C#\Windows Form\NumaricUpDown\obj\Debug\NumaricUpDown.csproj.AssemblyReference.cache
+D:\C#\Windows Form\NumaricUpDown\obj\Debug\NumaricUpDown.Form1.resources
+D:\C#\Windows Form\NumaricUpDown\obj\Debug\NumaricUpDown.Properties.Resources.resources
+D:\C#\Windows Form\NumaricUpDown\obj\Debug\NumaricUpDown.csproj.GenerateResource.cache
+D:\C#\Windows Form\NumaricUpDown\obj\Debug\NumaricUpDown.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\NumaricUpDown\obj\Debug\NumaricUpDown.exe
+D:\C#\Windows Form\NumaricUpDown\obj\Debug\NumaricUpDown.pdb
