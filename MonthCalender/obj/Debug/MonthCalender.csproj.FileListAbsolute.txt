@@ -1,0 +1,10 @@
+D:\C#\Windows Form\MonthCalender\obj\Debug\MonthCalender.csproj.AssemblyReference.cache
+D:\C#\Windows Form\MonthCalender\obj\Debug\MonthCalender.Form1.resources
+D:\C#\Windows Form\MonthCalender\obj\Debug\MonthCalender.Properties.Resources.resources
+D:\C#\Windows Form\MonthCalender\obj\Debug\MonthCalender.csproj.GenerateResource.cache
+D:\C#\Windows Form\MonthCalender\obj\Debug\MonthCalender.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\MonthCalender\bin\Debug\MonthCalender.exe.config
+D:\C#\Windows Form\MonthCalender\bin\Debug\MonthCalender.exe
+D:\C#\Windows Form\MonthCalender\bin\Debug\MonthCalender.pdb
+D:\C#\Windows Form\MonthCalender\obj\Debug\MonthCalender.exe
+D:\C#\Windows Form\MonthCalender\obj\Debug\MonthCalender.pdb
