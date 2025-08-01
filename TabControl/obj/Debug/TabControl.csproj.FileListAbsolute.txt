@@ -1,0 +1,10 @@
+D:\C#\Windows Form\TabControl\bin\Debug\TabControl.exe.config
+D:\C#\Windows Form\TabControl\bin\Debug\TabControl.exe
+D:\C#\Windows Form\TabControl\bin\Debug\TabControl.pdb
+D:\C#\Windows Form\TabControl\obj\Debug\TabControl.csproj.AssemblyReference.cache
+D:\C#\Windows Form\TabControl\obj\Debug\TabControl.Form1.resources
+D:\C#\Windows Form\TabControl\obj\Debug\TabControl.Properties.Resources.resources
+D:\C#\Windows Form\TabControl\obj\Debug\TabControl.csproj.GenerateResource.cache
+D:\C#\Windows Form\TabControl\obj\Debug\TabControl.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\TabControl\obj\Debug\TabControl.exe
+D:\C#\Windows Form\TabControl\obj\Debug\TabControl.pdb
