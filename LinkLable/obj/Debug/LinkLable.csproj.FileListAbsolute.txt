@@ -1,0 +1,10 @@
+D:\C#\Windows Form\LinkLable\bin\Debug\LinkLable.exe.config
+D:\C#\Windows Form\LinkLable\bin\Debug\LinkLable.exe
+D:\C#\Windows Form\LinkLable\bin\Debug\LinkLable.pdb
+D:\C#\Windows Form\LinkLable\obj\Debug\LinkLable.csproj.AssemblyReference.cache
+D:\C#\Windows Form\LinkLable\obj\Debug\LinkLable.Form1.resources
+D:\C#\Windows Form\LinkLable\obj\Debug\LinkLable.Properties.Resources.resources
+D:\C#\Windows Form\LinkLable\obj\Debug\LinkLable.csproj.GenerateResource.cache
+D:\C#\Windows Form\LinkLable\obj\Debug\LinkLable.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\LinkLable\obj\Debug\LinkLable.exe
+D:\C#\Windows Form\LinkLable\obj\Debug\LinkLable.pdb
