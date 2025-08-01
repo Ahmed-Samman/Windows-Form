@@ -1,0 +1,10 @@
+D:\C#\Windows Form\Menu Strip\bin\Debug\Menu Strip.exe.config
+D:\C#\Windows Form\Menu Strip\bin\Debug\Menu Strip.exe
+D:\C#\Windows Form\Menu Strip\bin\Debug\Menu Strip.pdb
+D:\C#\Windows Form\Menu Strip\obj\Debug\Menu Strip.csproj.AssemblyReference.cache
+D:\C#\Windows Form\Menu Strip\obj\Debug\Menu_Strip.Form1.resources
+D:\C#\Windows Form\Menu Strip\obj\Debug\Menu_Strip.Properties.Resources.resources
+D:\C#\Windows Form\Menu Strip\obj\Debug\Menu Strip.csproj.GenerateResource.cache
+D:\C#\Windows Form\Menu Strip\obj\Debug\Menu Strip.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\Menu Strip\obj\Debug\Menu Strip.exe
+D:\C#\Windows Form\Menu Strip\obj\Debug\Menu Strip.pdb
