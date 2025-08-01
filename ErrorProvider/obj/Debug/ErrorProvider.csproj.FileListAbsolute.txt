@@ -1,0 +1,10 @@
+D:\C#\Windows Form\ErrorProvider\bin\Debug\ErrorProvider.exe.config
+D:\C#\Windows Form\ErrorProvider\bin\Debug\ErrorProvider.exe
+D:\C#\Windows Form\ErrorProvider\bin\Debug\ErrorProvider.pdb
+D:\C#\Windows Form\ErrorProvider\obj\Debug\ErrorProvider.csproj.AssemblyReference.cache
+D:\C#\Windows Form\ErrorProvider\obj\Debug\ErrorProvider.Form1.resources
+D:\C#\Windows Form\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
+D:\C#\Windows Form\ErrorProvider\obj\Debug\ErrorProvider.csproj.GenerateResource.cache
+D:\C#\Windows Form\ErrorProvider\obj\Debug\ErrorProvider.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\ErrorProvider\obj\Debug\ErrorProvider.exe
+D:\C#\Windows Form\ErrorProvider\obj\Debug\ErrorProvider.pdb
