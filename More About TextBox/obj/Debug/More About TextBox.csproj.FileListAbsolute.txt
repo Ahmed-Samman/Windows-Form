@@ -1,0 +1,10 @@
+D:\C#\Windows Form\More About TextBox\bin\Debug\More About TextBox.exe.config
+D:\C#\Windows Form\More About TextBox\bin\Debug\More About TextBox.exe
+D:\C#\Windows Form\More About TextBox\bin\Debug\More About TextBox.pdb
+D:\C#\Windows Form\More About TextBox\obj\Debug\More About TextBox.csproj.AssemblyReference.cache
+D:\C#\Windows Form\More About TextBox\obj\Debug\More_About_TextBox.Form1.resources
+D:\C#\Windows Form\More About TextBox\obj\Debug\More_About_TextBox.Properties.Resources.resources
+D:\C#\Windows Form\More About TextBox\obj\Debug\More About TextBox.csproj.GenerateResource.cache
+D:\C#\Windows Form\More About TextBox\obj\Debug\More About TextBox.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\More About TextBox\obj\Debug\More About TextBox.exe
+D:\C#\Windows Form\More About TextBox\obj\Debug\More About TextBox.pdb
