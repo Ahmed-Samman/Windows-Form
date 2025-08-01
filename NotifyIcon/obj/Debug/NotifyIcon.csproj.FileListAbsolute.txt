@@ -1,0 +1,10 @@
+D:\C#\Windows Form\NotifyIcon\bin\Debug\NotifyIcon.exe.config
+D:\C#\Windows Form\NotifyIcon\bin\Debug\NotifyIcon.exe
+D:\C#\Windows Form\NotifyIcon\bin\Debug\NotifyIcon.pdb
+D:\C#\Windows Form\NotifyIcon\obj\Debug\NotifyIcon.csproj.AssemblyReference.cache
+D:\C#\Windows Form\NotifyIcon\obj\Debug\NotifyIcon.Form1.resources
+D:\C#\Windows Form\NotifyIcon\obj\Debug\NotifyIcon.Properties.Resources.resources
+D:\C#\Windows Form\NotifyIcon\obj\Debug\NotifyIcon.csproj.GenerateResource.cache
+D:\C#\Windows Form\NotifyIcon\obj\Debug\NotifyIcon.csproj.CoreCompileInputs.cache
+D:\C#\Windows Form\NotifyIcon\obj\Debug\NotifyIcon.exe
+D:\C#\Windows Form\NotifyIcon\obj\Debug\NotifyIcon.pdb
